@@ -27,4 +27,4 @@ conduct hackathons on Libra and Move, repos will in the [Existing Repositories](
 
 [CryptoSmelt](https://github.com/pkcsecurity/cryptosmelt): Rust mining pool for cryptonote coins
 
-[Trabant](https://github.com/pkcsecurity/trabant): Parallelizable Merkle Trees using Skein in JStranspiled via Emscripten
+[Trabant](https://github.com/pkcsecurity/trabant): Parallelizable Merkle Trees using Skein in JS transpiled via Emscripten
