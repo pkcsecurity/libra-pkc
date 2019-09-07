@@ -4,7 +4,9 @@ Welcome! If you're a PKC or Trustbridge dev, take a look at [Quick Access to Lib
 to view this Github repo. As we continue to develop source code and
 conduct hackathons on Libra and Move, repos will appear here.
 
-[### Quick Access to Libra Resources](#quick-acccess)
+[](#quick-acccess)
+
+### Quick Access to Libra Resources
 
 [Libra White Papers](https://libra.org/en-US/wp-content/uploads/sites/23/2019/07/WhitePaperAndSupportingDocuments.zip)
 
