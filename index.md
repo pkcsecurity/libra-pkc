@@ -1,4 +1,4 @@
-## Trustbridge and PKC Hackathon on Libra
+## Trustbridge + PKC :heart: Libra
 
 Welcome! Trustbridge and PKC are excited by the potential Libra has to help those marginalized by lack of access to the global banking system. We see its potential to leverage blockchain and distributed computing to make the flow of money programmable and egalitarian.
 
