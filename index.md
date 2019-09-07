@@ -1,8 +1,9 @@
 ## Trustbridge and PKC Hackathon on Libra
 
-Welcome! If you're a PKC or Trustbridge dev, take a look at [Quick Access to Libra Resources](#quick-access) eel free
-to view this Github repo. As we continue to develop source code and
-conduct hackathons on Libra and Move, repos will appear here.
+Welcome! Trustbridge and PKC are excited by the potential Libra has to help those marginalized by lack of access to the global banking system. We see its potential to leverage blockchain and distributed computing to make the flow of money programmable and egalitarian.
+
+If you're a PKC or Trustbridge dev, take a look at [Quick Access to Libra Resources](#quick-access) before starting to hack. As we continue to develop source code and
+conduct hackathons on Libra and Move, repos will in the [Existing Repositories](#repos) section.
 
 [](#quick-acccess)
 
@@ -20,7 +21,9 @@ conduct hackathons on Libra and Move, repos will appear here.
 
 [The Rust Styleguide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
 
-### PKC Repositories
+[](#repos)
+
+### Existing Repositories
 
 [CryptoSmelt](https://github.com/pkcsecurity/cryptosmelt): Rust mining pool for cryptonote coins
 
