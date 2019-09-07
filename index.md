@@ -8,11 +8,17 @@ conduct hackathons on Libra and Move, repos will appear here.
 
 ### Quick Access to Libra Resources
 
+#### Libra
+
 [Libra White Papers](https://libra.org/en-US/wp-content/uploads/sites/23/2019/07/WhitePaperAndSupportingDocuments.zip)
 
 [Move: A Language with Programmable Resources](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 
+#### Rust for Libra
+
 [The Rust Book](https://doc.rust-lang.org/book/)
+
+[The Rust Styleguide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
 
 ### PKC Repositories
 
