@@ -2,10 +2,8 @@
 
 Welcome! Trustbridge and PKC are excited by the potential Libra has to help those marginalized by lack of access to the global banking system. We see its potential to leverage blockchain and distributed computing to make the flow of money programmable and egalitarian.
 
-If you're a PKC or Trustbridge dev, take a look at [Quick Access to Libra Resources](#quick-access) before starting to hack. As we continue to develop source code and
-conduct hackathons on Libra and Move, repos will in the [Existing Repositories](#repos) section.
-
-[ ](#quick-acccess)
+If you're a PKC or Trustbridge dev, take a look at [Quick Access to Libra Resources](#quick-access-to-libra-resources) before starting to hack. As we continue to develop source code and
+conduct hackathons on Libra and Move, repos will in the [Existing Repositories](#existing-repositories) section.
 
 ### Quick Access to Libra Resources
 
@@ -20,8 +18,6 @@ conduct hackathons on Libra and Move, repos will in the [Existing Repositories](
 [The Rust Book](https://doc.rust-lang.org/book/)
 
 [The Rust Styleguide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
-
-[ ](#repos)
 
 ### Existing Repositories
 
