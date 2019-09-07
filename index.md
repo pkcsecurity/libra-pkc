@@ -16,8 +16,6 @@ conduct hackathons on Libra and Move, repos will appear here.
 
 ### PKC Repositories
 
-Rust mining pool for cryptonote coins
-[CryptoSmelt](https://github.com/pkcsecurity/cryptosmelt)
+[CryptoSmelt](https://github.com/pkcsecurity/cryptosmelt): Rust mining pool for cryptonote coins
 
-Parallelizable Merkle Trees with Skein in JS
-[Trabant](https://github.com/pkcsecurity/trabant)
+[Trabant](https://github.com/pkcsecurity/trabant): Parallelizable Merkle Trees using Skein in JSvia Emscripten
