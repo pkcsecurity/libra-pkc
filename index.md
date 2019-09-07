@@ -5,7 +5,7 @@ Welcome! Trustbridge and PKC are excited by the potential Libra has to help thos
 If you're a PKC or Trustbridge dev, take a look at [Quick Access to Libra Resources](#quick-access) before starting to hack. As we continue to develop source code and
 conduct hackathons on Libra and Move, repos will in the [Existing Repositories](#repos) section.
 
-[](#quick-acccess)
+[ ](#quick-acccess)
 
 ### Quick Access to Libra Resources
 
@@ -21,10 +21,10 @@ conduct hackathons on Libra and Move, repos will in the [Existing Repositories](
 
 [The Rust Styleguide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
 
-[](#repos)
+[ ](#repos)
 
 ### Existing Repositories
 
 [CryptoSmelt](https://github.com/pkcsecurity/cryptosmelt): Rust mining pool for cryptonote coins
 
-[Trabant](https://github.com/pkcsecurity/trabant): Parallelizable Merkle Trees using Skein in JSvia Emscripten
+[Trabant](https://github.com/pkcsecurity/trabant): Parallelizable Merkle Trees using Skein in JStranspiled via Emscripten
